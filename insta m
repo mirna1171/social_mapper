@@ -1,0 +1,1 @@
+social_mapper.py -f <input format> -i <input type > -m <mode> –<target media>
